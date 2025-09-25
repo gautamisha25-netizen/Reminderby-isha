@@ -125,3 +125,21 @@ li .remove-btn:hover {
     text-decoration: line-through;
     color: #6c757d;
 }
+.site-footer {
+  background-color: #f8f8f8; /* Light gray background */
+  color: #333;               /* Dark text for contrast */
+  text-align: center;        /* Center the text */
+  padding: 20px 0;           /* Vertical spacing */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  border-top: 1px solid #e2e2e2; /* Subtle border */
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+.site-fo
